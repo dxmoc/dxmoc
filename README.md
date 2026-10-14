@@ -87,6 +87,41 @@ does not.
 </tr>
 </table>
 
+## Get in touch
+
+Questions about one of my projects, an idea, or something that does not fit
+into an issue: mail me at **[mail@corvyn.org](mailto:mail@corvyn.org)**. My
+inbox is always open.
+
+Encrypted mail is welcome. Fingerprint
+`3F3F EB4D 9CED 560F 4E44  F407 0353 506E 0CC7 2C99`, key as
+[`publickey.asc`](publickey.asc) or right here:
+
+<details>
+<summary>PGP public key</summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEanmRLxYJKwYBBAHaRw8BAQdAX+/T/3gVISmaUX1/c/iIsX+Ff/FsdqsE
+vyfWrxT5J4TNIW1haWxAY29ydnluLm9yZyA8bWFpbEBjb3J2eW4ub3JnPsLA
+EQQTFgoAgwWCanmRLwMLCQcJEANTUG4MxyyZRRQAAAAAABwAIHNhbHRAbm90
+YXRpb25zLm9wZW5wZ3Bqcy5vcmcPajuMPQrtxDdDbdzoe0My/fbqkV5dMpia
+m54I4J6cWgMVCggEFgACAQIZAQKbAwIeARYhBD8/602c7VYPTkT0BwNTUG4M
+xyyZAACpogEA//AKy8mQjDtccvOl3agtzikSh8MF6ML3mdy68UZa4IsBAMBY
+7jhIAhIzR2nLtymCT0gZz873YOIWaYWPyFv4IXsEzjgEanmRLxIKKwYBBAGX
+VQEFAQEHQP2v1uwYw3NA9RX+Zreepp3ZxJX/WUlLT8LHWGQSsQxxAwEIB8K+
+BBgWCgBwBYJqeZEvCRADU1BuDMcsmUUUAAAAAAAcACBzYWx0QG5vdGF0aW9u
+cy5vcGVucGdwanMub3Jn6caBZSuvgS+Zc8vdEDjo15iQBOQbURqpTNdL6GO2
+mwECmwwWIQQ/P+tNnO1WD05E9AcDU1BuDMcsmQAAwJkBAPH2zsMtXCt8r0N3
+4rNfDoNCWBBalYLjU0aUurMyq9OeAQDzIWIqwydALsptm+PBmDF8KXwrGl2w
+zN0DC7GazTXlBw==
+=em3m
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
 <sub>The header is drawn by <code>scripts/make_header.py</code>, the lists above refresh themselves once a day. Both use nothing but the Python standard library, of course.</sub>
 
 <p align="right"><i>See you Space Cowboy!</i></p>
