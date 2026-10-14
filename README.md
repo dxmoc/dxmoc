@@ -88,3 +88,5 @@ does not.
 </table>
 
 <sub>The header is drawn by <code>scripts/make_header.py</code>, the lists above refresh themselves once a day. Both use nothing but the Python standard library, of course.</sub>
+
+<p align="right"><i>See you Space Cowboy!</i></p>
