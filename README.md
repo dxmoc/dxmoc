@@ -72,15 +72,15 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-10-13</sub>
+[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-10-15</sub>
+
+[anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-10-14</sub>
 
 [awesome-jellyfin/awesome-jellyfin#627](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/627) PR: feat: add LiquidFin theme <sub>2026-10-13</sub>
 
 [flipperdevices/flipperone-linux-build-scripts#115](https://github.com/flipperdevices/flipperone-linux-build-scripts/issues/115) issue: Lock /boot with btrfs property RO <sub>2026-10-12</sub>
 
 [paulherter/swiftly-player#12](https://github.com/paulherter/swiftly-player/issues/12) issue: Feature request: show Jellyfin playlists (video playlists) <sub>2026-10-10</sub>
-
-[paulherter/swiftly-player#4](https://github.com/paulherter/swiftly-player/issues/4) issue: Custom HTTP headers for servers behind an auth proxy (Cloudflare Access, Authelia, …) <sub>2026-09-25</sub>
 <!-- elsewhere:end -->
 
 </td>
