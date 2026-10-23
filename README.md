@@ -57,7 +57,7 @@ does not.
 **Releases**
 
 <!-- releases:start -->
-[aniworld-cli v0.2.4](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.4) <sub>2026-10-21</sub>
+[aniworld-cli v0.2.5](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.5) <sub>2026-10-22</sub>
 
 [ventoy-iso-updater v0.9.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v0.9.0) <sub>2026-10-14</sub>
 
@@ -74,11 +74,11 @@ does not.
 <!-- elsewhere:start -->
 [paulherter/swiftly-player#17](https://github.com/paulherter/swiftly-player/issues/17) issue: iOS: Seerr sign-in shows "No server is reachable at this address." although Seerr accepts the login <sub>2026-10-22</sub>
 
+[paulherter/swiftly-player#12](https://github.com/paulherter/swiftly-player/issues/12) issue: Feature request: show Jellyfin playlists (video playlists) <sub>2026-10-22</sub>
+
 [anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-10-21</sub>
 
 [flipperdevices/flipperone-linux-build-scripts#115](https://github.com/flipperdevices/flipperone-linux-build-scripts/issues/115) issue: Lock /boot with btrfs property RO <sub>2026-10-19</sub>
-
-[paulherter/swiftly-player#12](https://github.com/paulherter/swiftly-player/issues/12) issue: Feature request: show Jellyfin playlists (video playlists) <sub>2026-10-17</sub>
 
 [anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-10-14</sub>
 <!-- elsewhere:end -->
