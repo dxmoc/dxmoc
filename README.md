@@ -76,7 +76,7 @@ does not.
 
 [paulherter/swiftly-player#12](https://github.com/paulherter/swiftly-player/issues/12) issue: Feature request: show Jellyfin playlists (video playlists) <sub>2026-10-22</sub>
 
-[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-10-21</sub>
+[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-10-28</sub>
 
 [flipperdevices/flipperone-linux-build-scripts#115](https://github.com/flipperdevices/flipperone-linux-build-scripts/issues/115) issue: Lock /boot with btrfs property RO <sub>2026-10-19</sub>
 
