@@ -72,11 +72,11 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
+[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-11-04</sub>
+
 [paulherter/swiftly-player#17](https://github.com/paulherter/swiftly-player/issues/17) issue: iOS: Seerr sign-in shows "No server is reachable at this address." although Seerr accepts the login <sub>2026-10-22</sub>
 
 [paulherter/swiftly-player#12](https://github.com/paulherter/swiftly-player/issues/12) issue: Feature request: show Jellyfin playlists (video playlists) <sub>2026-10-22</sub>
-
-[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-10-28</sub>
 
 [flipperdevices/flipperone-linux-build-scripts#115](https://github.com/flipperdevices/flipperone-linux-build-scripts/issues/115) issue: Lock /boot with btrfs property RO <sub>2026-10-19</sub>
 
