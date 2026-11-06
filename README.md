@@ -57,9 +57,9 @@ does not.
 **Releases**
 
 <!-- releases:start -->
-[aniworld-cli v0.2.5](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.5) <sub>2026-10-22</sub>
+[ventoy-iso-updater v0.9.1](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v0.9.1) <sub>2026-11-06</sub>
 
-[ventoy-iso-updater v0.9.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v0.9.0) <sub>2026-10-14</sub>
+[aniworld-cli v0.2.5](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.5) <sub>2026-10-22</sub>
 
 [jellyfin-liquidfin-theme v0.2.4](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.4) <sub>2026-09-08</sub>
 
@@ -72,15 +72,15 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-05</sub>
+[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-06</sub>
 
-[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-05</sub>
+[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-06</sub>
 
-[anmolkapil/plexo#229](https://github.com/anmolkapil/plexo/pull/229) PR: feat: Usenet settings in Speed & data limits, with an on/off switch <sub>2026-11-05</sub>
+[anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-11-06</sub>
+
+[anmolkapil/plexo#229](https://github.com/anmolkapil/plexo/pull/229) PR: feat: Usenet settings in Speed & data limits, with an on/off switch <sub>2026-11-06</sub>
 
 [anmolkapil/plexo#234](https://github.com/anmolkapil/plexo/pull/234) PR: test: fix the settings smoke test after the network edit button was renamed <sub>2026-11-05</sub>
-
-[anmolkapil/plexo#133](https://github.com/anmolkapil/plexo/pull/133) PR: feat: NZB downloads from a Usenet news server (#126) <sub>2026-11-04</sub>
 <!-- elsewhere:end -->
 
 </td>
