@@ -72,9 +72,9 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-06</sub>
+[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-11</sub>
 
-[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-06</sub>
+[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-11</sub>
 
 [anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-11-06</sub>
 
