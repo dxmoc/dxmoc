@@ -57,13 +57,13 @@ does not.
 **Releases**
 
 <!-- releases:start -->
-[ventoy-iso-updater v0.9.1](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v0.9.1) <sub>2026-11-06</sub>
+[ventoy-iso-updater v1.0.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.0.0) <sub>2026-11-12</sub>
 
-[aniworld-cli v0.2.5](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.5) <sub>2026-10-22</sub>
+[aniworld-cli v0.2.6](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.6) <sub>2026-11-11</sub>
 
-[jellyfin-liquidfin-theme v0.2.4](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.4) <sub>2026-09-08</sub>
+[jellyfin-liquidfin-theme v0.2.5](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.5) <sub>2026-11-11</sub>
 
-[sc-outfitter v1.3.0](https://github.com/dxmoc/sc-outfitter/releases/tag/v1.3.0) <sub>2026-09-07</sub>
+[sc-outfitter v1.3.1](https://github.com/dxmoc/sc-outfitter/releases/tag/v1.3.1) <sub>2026-11-11</sub>
 <!-- releases:end -->
 
 </td>
