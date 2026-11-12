@@ -106,7 +106,7 @@ def render(c: dict) -> str:
   <text x="44" y="156" font-size="17" fill="{c["text"]}">Small tools that do one thing, need nothing</text>
   <text x="44" y="180" font-size="17" fill="{c["text"]}">and keep working.</text>
 
-  <text x="44" y="210" font-size="13" fill="{c["muted"]}">python  /  c#  /  css</text>
+  <text x="44" y="210" font-size="13" fill="{c["muted"]}">rust  /  python  /  c#  /  css</text>
 
   {caterpillar(c)}
 </svg>
