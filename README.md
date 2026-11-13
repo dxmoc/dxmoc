@@ -57,7 +57,7 @@ does not.
 **Releases**
 
 <!-- releases:start -->
-[ventoy-iso-updater v1.0.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.0.0) <sub>2026-11-12</sub>
+[ventoy-iso-updater v1.1.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.1.0) <sub>2026-11-12</sub>
 
 [aniworld-cli v0.2.6](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.6) <sub>2026-11-11</sub>
 
