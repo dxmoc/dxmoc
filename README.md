@@ -57,13 +57,13 @@ does not.
 **Releases**
 
 <!-- releases:start -->
-[ventoy-iso-updater v1.1.0](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.1.0) <sub>2026-11-12</sub>
+[ventoy-iso-updater v1.1.2](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.1.2) <sub>2026-11-15</sub>
+
+[sc-outfitter v1.3.2](https://github.com/dxmoc/sc-outfitter/releases/tag/v1.3.2) <sub>2026-11-15</sub>
+
+[jellyfin-liquidfin-theme v0.2.6](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.6) <sub>2026-11-15</sub>
 
 [aniworld-cli v0.2.6](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.6) <sub>2026-11-11</sub>
-
-[jellyfin-liquidfin-theme v0.2.5](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.5) <sub>2026-11-11</sub>
-
-[sc-outfitter v1.3.1](https://github.com/dxmoc/sc-outfitter/releases/tag/v1.3.1) <sub>2026-11-11</sub>
 <!-- releases:end -->
 
 </td>
@@ -72,15 +72,15 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-11</sub>
+[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-14</sub>
 
-[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-11</sub>
+[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-14</sub>
+
+[anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254) PR: fix: let Cmd/Ctrl+A select the list while a closed menu fades out <sub>2026-11-14</sub>
 
 [anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-11-06</sub>
 
 [anmolkapil/plexo#229](https://github.com/anmolkapil/plexo/pull/229) PR: feat: Usenet settings in Speed & data limits, with an on/off switch <sub>2026-11-06</sub>
-
-[anmolkapil/plexo#234](https://github.com/anmolkapil/plexo/pull/234) PR: test: fix the settings smoke test after the network edit button was renamed <sub>2026-11-05</sub>
 <!-- elsewhere:end -->
 
 </td>
