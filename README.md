@@ -72,15 +72,15 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-14</sub>
+[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-15</sub>
+
+[anthropics/claude-code#110219](https://github.com/anthropics/claude-code/issues/110219) issue: Render plugin UI (bands, status line) in Remote Control sessions on claude.ai/code and the mobile app <sub>2026-11-15</sub>
 
 [anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-14</sub>
 
 [anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254) PR: fix: let Cmd/Ctrl+A select the list while a closed menu fades out <sub>2026-11-14</sub>
 
 [anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-11-06</sub>
-
-[anmolkapil/plexo#229](https://github.com/anmolkapil/plexo/pull/229) PR: feat: Usenet settings in Speed & data limits, with an on/off switch <sub>2026-11-06</sub>
 <!-- elsewhere:end -->
 
 </td>
