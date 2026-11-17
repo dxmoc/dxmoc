@@ -72,15 +72,15 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
-[anmolkapil/plexo#231](https://github.com/anmolkapil/plexo/pull/231) PR: feat: repair and unpack NZB downloads with par2 and 7-Zip (#126) <sub>2026-11-15</sub>
+[mujo-org/mujo-docs#14](https://github.com/mujo-org/mujo-docs/issues/14) issue: Ramp-up: land one small fix in each repo <sub>2026-11-17</sub>
 
-[anthropics/claude-code#110219](https://github.com/anthropics/claude-code/issues/110219) issue: Render plugin UI (bands, status line) in Remote Control sessions on claude.ai/code and the mobile app <sub>2026-11-15</sub>
+[mujo-org/mujo-mq#3](https://github.com/mujo-org/mujo-mq/pull/3) PR: tests: wait for XFTP file deletion instead of a fixed delay <sub>2026-11-17</sub>
 
-[anmolkapil/plexo#230](https://github.com/anmolkapil/plexo/pull/230) PR: feat: backup news server for articles the main one doesn't have <sub>2026-11-14</sub>
+[mujo-org/mujo-chat#2](https://github.com/mujo-org/mujo-chat/pull/2) PR: core: keep bots running when stdin is closed <sub>2026-11-17</sub>
 
-[anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254) PR: fix: let Cmd/Ctrl+A select the list while a closed menu fades out <sub>2026-11-14</sub>
+[mujo-org/mujo-docs#7](https://github.com/mujo-org/mujo-docs/issues/7) issue: CI on mujo-org: reduced build green for mujo-mq and mujo-chat <sub>2026-11-17</sub>
 
-[anmolkapil/plexo#126](https://github.com/anmolkapil/plexo/issues/126) issue: Feature request: NZB / Usenet downloads <sub>2026-11-06</sub>
+[mujo-org/mujo-docs#6](https://github.com/mujo-org/mujo-docs/issues/6) issue: mujo-chat: Android APK baseline build <sub>2026-11-17</sub>
 <!-- elsewhere:end -->
 
 </td>
