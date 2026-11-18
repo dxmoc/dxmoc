@@ -72,6 +72,8 @@ does not.
 **Elsewhere on GitHub**
 
 <!-- elsewhere:start -->
+[mujo-org/mujo-docs#6](https://github.com/mujo-org/mujo-docs/issues/6) issue: mujo-chat: Android APK baseline build <sub>2026-11-17</sub>
+
 [mujo-org/mujo-docs#14](https://github.com/mujo-org/mujo-docs/issues/14) issue: Ramp-up: land one small fix in each repo <sub>2026-11-17</sub>
 
 [mujo-org/mujo-mq#3](https://github.com/mujo-org/mujo-mq/pull/3) PR: tests: wait for XFTP file deletion instead of a fixed delay <sub>2026-11-17</sub>
@@ -79,8 +81,6 @@ does not.
 [mujo-org/mujo-chat#2](https://github.com/mujo-org/mujo-chat/pull/2) PR: core: keep bots running when stdin is closed <sub>2026-11-17</sub>
 
 [mujo-org/mujo-docs#7](https://github.com/mujo-org/mujo-docs/issues/7) issue: CI on mujo-org: reduced build green for mujo-mq and mujo-chat <sub>2026-11-17</sub>
-
-[mujo-org/mujo-docs#6](https://github.com/mujo-org/mujo-docs/issues/6) issue: mujo-chat: Android APK baseline build <sub>2026-11-17</sub>
 <!-- elsewhere:end -->
 
 </td>
