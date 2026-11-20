@@ -57,13 +57,13 @@ does not.
 **Releases**
 
 <!-- releases:start -->
+[aniworld-cli v0.2.7](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.7) <sub>2026-11-19</sub>
+
 [ventoy-iso-updater v1.1.2](https://github.com/dxmoc/ventoy-iso-updater/releases/tag/v1.1.2) <sub>2026-11-15</sub>
 
 [sc-outfitter v1.3.2](https://github.com/dxmoc/sc-outfitter/releases/tag/v1.3.2) <sub>2026-11-15</sub>
 
 [jellyfin-liquidfin-theme v0.2.6](https://github.com/dxmoc/jellyfin-liquidfin-theme/releases/tag/v0.2.6) <sub>2026-11-15</sub>
-
-[aniworld-cli v0.2.6](https://github.com/dxmoc/aniworld-cli/releases/tag/v0.2.6) <sub>2026-11-11</sub>
 <!-- releases:end -->
 
 </td>
